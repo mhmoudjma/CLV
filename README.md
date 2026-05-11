@@ -1,6 +1,7 @@
 # 🛡️ CLV - Capture Linux vulnerability
 CLV is an educational security auditor built for CTF enthusiasts and Linux system administrators.
 The tool helps in identifying common misconfigurations and weak permissions to understand how Linux systems can be hardened.
+<img width="1920" height="1080" alt="Screenshot_2026-05-11_21_27_06" src="https://github.com/user-attachments/assets/49de011b-bdfc-4353-9047-5dfdf0a4c77d" />
 
 ---
 
@@ -20,8 +21,12 @@ The tool helps in identifying common misconfigurations and weak permissions to u
 ---
 
 ## 🚀 How to use in Labs
-`bash
+```bash
 git clone [https://github.com/mhmoudjma/CLV.git](https://github.com/mhmoudjma/CLV.git)
+
 cd CLV
 chmod +x clv.sh
 ./clv.sh
+```
+
+Author: End.@mhmoudjma 
